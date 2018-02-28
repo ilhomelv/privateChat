@@ -1,0 +1,9 @@
+cd privateChat  //change directory folder into privateChat folder
+npm init  //in terminal  creates json file
+public folder -> index.html creation
+server.js creation
+package.json change index.js to server.js
+npm i express --save  //creates node_modules folder and files...
+fill up server.js
+node server in terminal runs server.js file
+ctrl+C stops the server.js file
